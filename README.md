@@ -12,8 +12,8 @@ The complete paper can be viewed at [https://doi.org/10.1109/ETCEA57049.2022.100
 
 
 ## Dataset:
-- Dataset 1 (Churn Modeling): https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers/
-- Dataset 2 (Bank Churners): https://www.kaggle.com/code/thomaskonstantin/bank-churn-data-exploration-and-churn-prediction/
+- Dataset 1 (Churn Modeling): https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers/
+- Dataset 2 (Bank Churners): https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/
 
 ## Installation and Usage:
 1. Install all dependencies listed in requirements.txt - all packages are pip-installable.
