@@ -18,3 +18,28 @@ https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers
 ## Installation and Usage:
 1. Install all dependencies listed in requirements.txt - all packages are pip-installable.
 2. Run app.py to launch a local Dash server to host the Dash app. A link will appear in your console; click this to use the Dash app.
+
+## Citing the paper
+
+BibTeX:
+
+```console
+@inproceedings{dalbah2022interactive,
+  title={An interactive dashboard for predicting bank customer attrition},
+  author={Dalbah, Lamees Mohammad and Ali, Sharaz and Al-Naymat, Ghazi},
+  booktitle={2022 International Conference on Emerging Trends in Computing and Engineering Applications (ETCEA)},
+  pages={1--6},
+  year={2022},
+  organization={IEEE}
+}
+```
+
+
+
+| Type  | Citation |
+| :------------- | :------------- |
+| MLA  | Dalbah, Lamees Mohammad, Sharaz Ali, and Ghazi Al-Naymat. "An interactive dashboard for predicting bank customer attrition." _2022 International Conference on Emerging Trends in Computing and Engineering Applications (ETCEA)_. IEEE, 2022. |
+| APA  | Dalbah, L. M., Ali, S., & Al-Naymat, G. (2022, November). An interactive dashboard for predicting bank customer attrition. In _2022 International Conference on Emerging Trends in Computing and Engineering Applications (ETCEA)_ (pp. 1-6). IEEE. |
+| Chicago | Dalbah, Lamees Mohammad, Sharaz Ali, and Ghazi Al-Naymat. "An interactive dashboard for predicting bank customer attrition." In _2022 International Conference on Emerging Trends in Computing and Engineering Applications (ETCEA)_, pp. 1-6. IEEE, 2022. |
+| Harvard | Dalbah, L.M., Ali, S. and Al-Naymat, G., 2022, November. An interactive dashboard for predicting bank customer attrition. In _2022 International Conference on Emerging Trends in Computing and Engineering Applications (ETCEA)_ (pp. 1-6). IEEE. |
+| Vancouver | Dalbah LM, Ali S, Al-Naymat G. An interactive dashboard for predicting bank customer attrition. In2022 International Conference on Emerging Trends in Computing and Engineering Applications (ETCEA) 2022 Nov 23 (pp. 1-6). IEEE. |
