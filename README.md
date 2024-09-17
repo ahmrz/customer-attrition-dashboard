@@ -11,11 +11,11 @@ Customer attrition rate is a significant concern for commercial banks. In this e
 [Complete conference paper](Paper.pdf).
 
 
-## Dataset:
+## Datasets
 - Dataset 1 (Churn Modeling): https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers/
 - Dataset 2 (Bank Churners): https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/
 
-## Installation and Usage:
+## Installation and Usage
 1. Install all dependencies listed in requirements.txt - all packages are pip-installable.
 2. Run app.py to launch a local Dash server to host the Dash app. A link will appear in your console; click this to use the Dash app.
 
